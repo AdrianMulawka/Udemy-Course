@@ -1,6 +1,6 @@
-"""This program will help you calculate how much money you will save depending on the amount of funds deposited, the interest rate of the deposit and time."""
-##################################################################
-"""initialCapital = 20000
+#This program will help you calculate how much money you will save depending on the amount of funds deposited, the interest rate of the deposit and time.
+
+initialCapital = 20000
 interest = 0.03
 maxTimeYear = 10
 capital = initialCapital
@@ -14,10 +14,10 @@ for i in range(i, maxTimeYear):
 
 yourSavedMoney = capital-initialCapital
 
-print("By 10 years economize you saved %s money " % (yourSavedMoney))"""
+print("By 10 years economize you saved %s money " % (yourSavedMoney))
 
-"""This program will help you find long words in the text, that is, words that consist of at least six characters"""
-#############################################################################
+#This program will help you find long words in the text, that is, words that consist of at least six characters
+
 text = """United Space Alliance: This company provides major support to NASA for
 various projects, such as the space shuttle. One of its projects is to
 create Workflow Automation System (WAS), an application designed to

@@ -1,5 +1,5 @@
-"""This program help with automate light devices implementend in cars"""
-###################################################
+#This program help with automate light devices implementend in cars
+
 isAutomaticMode = True
 is80PercentLight = True
 isDirectLight = False
