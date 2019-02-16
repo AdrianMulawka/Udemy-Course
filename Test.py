@@ -1,3 +1,4 @@
+# Test version file to check complite cooperate programs
 hitsTitles = ['BROTHERS IN ARMS','BOHEMIAN RHAPSODY','STAIRWAY TO HEAVEN','RIDERS ON THE STORM','WISH YOU WERE HERE']
 print(hitsTitles)
 
