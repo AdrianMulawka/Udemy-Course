@@ -1,11 +1,10 @@
-#this programm take age from user by conoler and give them
-# information in which year he will have houndres years
+# this program take age from user and give them information in which year he will be a hundred years man
 import datetime
 
 name=input(str("Hi what's Your name"))
 print("Hello ", name)
 wiek=int(input("Please give me information about your age and I told you in \n"
-      "witch year you will be a haundred years old. So how old are you  "))
+      "witch year you will be a hundred years old  man. So how old are you  "))
 oldMan = 100-wiek
 
 now=datetime.datetime.now()
